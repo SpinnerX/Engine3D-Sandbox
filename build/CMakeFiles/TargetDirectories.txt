@@ -1,0 +1,3 @@
+/Users/aaronher/Desktop/Sandbox/build/CMakeFiles/Sandbox.dir
+/Users/aaronher/Desktop/Sandbox/build/CMakeFiles/edit_cache.dir
+/Users/aaronher/Desktop/Sandbox/build/CMakeFiles/rebuild_cache.dir

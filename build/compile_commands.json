@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/aaronher/Desktop/Sandbox/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -isystem /usr/local/include -isystem /opt/homebrew/include -isystem /opt/homebrew/lib -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -F/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks  -fsanitize=address -o CMakeFiles/Sandbox.dir/Application.cpp.o -c /Users/aaronher/Desktop/Sandbox/Application.cpp",
+  "file": "/Users/aaronher/Desktop/Sandbox/Application.cpp",
+  "output": "CMakeFiles/Sandbox.dir/Application.cpp.o"
+}
+]
